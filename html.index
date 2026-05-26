@@ -1,1 +1,108 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Otimização de Performance</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+
+    <a href="#" class="brand">
+      <span>FPKG</span>
+    </a>
+
+    <ul class="nav-links">
+      <li><a href="#otimizacao" class="active">otimizaçao</a></li>
+      <li><a href="#tecnica">tecnica</a></li>
+      <li><a href="#cache">canche</a></li>
+      <li><a href="#estrutura">estrutura</a></li>
+      <li><a href="#responsividade">responsividade</a></li>
+            <li><a href="#investir">investir</a></li>
+
+    </ul>
+
+  </nav>
+  
+
+  <!-- CONTEÚDO -->
+  <section class="hero">
+
+    <div class="container">
+<section id="otimizacao">
+      <h1>Otimização de Performance</h1>
+       <p class="destaque">
+      A <span >otimização de performance</span> em sites é um conjunto de técnicas utilizadas para melhorar a velocidade, a eficiência e a experiência do usuário durante a navegação. Um site rápido facilita o acesso às informações, reduz o tempo de carregamento das páginas e proporciona uma navegação muito mais agradável. Além disso, a performance é um fator importante para os mecanismos de busca, já que páginas mais rápidas costumam conquistar melhores posições nos resultados das pesquisas.
+       </section>
+    </p>
+    <h1> técnicas</h1>
+<section id="tecnica">
+    <p class="destaque">
+      A <span >otimização de performance</span> em sites é um conjunto de técnicas utilizadas para melhorar a velocidade, a eficiência e a experiência do usuário durante a navegação. Um site rápido facilita o acesso às informações, reduz o tempo de carregamento das páginas e proporciona uma navegação muito mais agradável. Além disso, a performance é um fator importante para os mecanismos de busca, já que páginas mais rápidas costumam conquistar melhores posições nos resultados das pesquisas.
+</section>
+    </p>
+     <h1>canche</h1>
+ <section id="cache">
+    <p class="destaque">
+      Uma das principais formas de melhorar o desempenho de um site é através da otimização de imagens e arquivos. Imagens muito pesadas podem deixar o carregamento lento, principalmente em dispositivos móveis. Por isso, é recomendado utilizar formatos mais leves, como WebP, além de comprimir arquivos CSS e JavaScript. Técnicas como <span >cache</span> e minificação também ajudam a reduzir o consumo de dados e tornam as páginas mais rápidas e eficientes.
+    </section>
+    </p>
+        <h1>estrutura</h1>
+<section id="estrutura">
+    <p class="destaque">
+      Outro ponto importante é o uso correto das tags HTML e dos scripts. Uma estrutura organizada facilita a interpretação do conteúdo pelos navegadores, melhorando o desempenho geral do site. O uso de atributos como <span>defer</span> e <span>async</span> em arquivos JavaScript evita o bloqueio do carregamento da página. Além disso, utilizar apenas os recursos necessários reduz o excesso de processamento e melhora a estabilidade da aplicação.
+    </section>
+    </p>
+        <h1>responsividade</h1>
+<section id="responsividade">
+    <p class="destaque">
+      A responsividade também faz parte da otimização de performance. Um site responsivo adapta automaticamente o layout para diferentes tamanhos de tela, oferecendo uma experiência confortável em celulares, tablets e computadores. Ferramentas modernas permitem criar páginas mais leves, acessíveis e rápidas, aumentando o tempo de permanência dos usuários no site.
+    </section>
+    </p>
+        <h1>investir no  futuro</h1>
+       <section id="investir">
+
+    <p class="destaque">
+      Por fim, investir em otimização de performance traz benefícios tanto para empresas quanto para usuários. Sites rápidos aumentam a credibilidade, melhoram a experiência de navegação e podem gerar mais visitas, engajamento e vendas. Dessa forma, aplicar técnicas de otimização é essencial para manter um site moderno, competitivo e eficiente na internet.
+    </section>
+    </p>
+    </div>
+    
+       
+       
+    
+
+    
+    
+    
+
+  </section>
+
+</body>
+</html>
+
+    
+    </div>
+
+  </section>
+
+</body>
+</html>
+    
+</body>
+</html>
